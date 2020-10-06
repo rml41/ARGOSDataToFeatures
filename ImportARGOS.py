@@ -10,3 +10,5 @@
 ## Author: John.Fay@duke.edu with edits by Rachel.Landman@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
 
+# Import modules
+import sys, os, arcpy
